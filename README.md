@@ -24,6 +24,7 @@
 
     python B.W.TDDoS.py
 
+![My Image](https://files.catbox.moe/abcd12.png)
 
 # ⚠️DISCLAIMER
 
