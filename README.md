@@ -15,7 +15,17 @@
     termux-setup-storage
 
 
-    https://github.com/whizzy28639/-    DDoS.git
+    git clone https://github.com/whizzy28639/B.W.TDDoS.git
 
 
     chmod +x *
+
+    cd B.W.TDDoS
+
+    python B.W.TDDoS.py
+
+
+# ⚠️DISCLAIMER
+
+THIS TOOLS IS FOR EDUCATIONAL AND ETHICAL PURPOSE ONLY,
+# DO - NOT - ABUSE
